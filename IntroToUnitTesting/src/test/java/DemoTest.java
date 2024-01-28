@@ -98,7 +98,7 @@ public class DemoTest {
 	@Test
 	public void test_is_NOT_triangle_12() {
 		//Just no ...
-		assertFalse(Demo.isTriangle(-12, -3, -3));
+		assertFalse(Demo.isTriangle(12.3, 0, -3));
 	}
 	
 	/*
