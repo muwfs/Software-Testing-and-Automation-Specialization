@@ -121,7 +121,7 @@ public class DemoTest {
 		
 		String consoleOutput = "Enter side 1: \n";
 		consoleOutput += "Enter side 2: \n";
-		consoleOutput += "Enter side 3: \n";
+ce		consoleOutput += "Enter side 3: \n";
 		consoleOutput += "This is a triangle.\n";
 		
 		assertEquals(consoleOutput, out.toString());	
